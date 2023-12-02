@@ -1,5 +1,5 @@
 # Pete-Thinkful
-<a href="About">About</a> <a href="Portfolio">Portfolio</a> <a href="Contact">Contact</a>
+<a href="#About">About</a> <a href="#Portfolio">Portfolio</a> <a href="#Contact">Contact</a>
 ## About
 ### Hi! I'm Pete Thinkful
 ![Pete Thinkful](images/pete-thinkful.png)
