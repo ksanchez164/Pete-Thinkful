@@ -11,7 +11,7 @@ As an artist, I'm interested in:
 Producing abstract art
 Creating street graffiti art
 Connecting with like-minded artists
-Please feel free to take a look at my website and feel free to <a href="contact me">contact me.</a>
+Please feel free to take a look at my website and feel free to <a href="#Contact">contact me.</a>
 
 ## Pete's Background
 After graduating college, I became an art teacher and worked with beginners and professionals. I love art and my works have been featured in major art galleries across the globe.
